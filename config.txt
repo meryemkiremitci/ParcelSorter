@@ -1,0 +1,9 @@
+SizeOfTable=10
+ArrivalBufferCapacity=10
+MaxTicks=100
+MinParcelsPerTick=1
+MaxParcelsPerTick=7
+ReturnProbability=0.2
+cities=Izmir,Ankara,Bursa,Istanbul,Antalya
+CityQueueSize=7
+StackTransferTick=5
