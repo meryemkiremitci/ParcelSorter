@@ -5,7 +5,7 @@ ParcelSorter simulates a smart logistics center where parcels are received, cate
 This project blends theoretical knowledge of data structures with practical simulation logic, aiming for modularity, correctness, and detailed reporting.
 
 ## Usage
- For a detailed explanation of the system architecture, data structures used, and simulation flow, please refer to the Project Report.
+You can find the [Project Report](ParcelSorter_Report.pdf) here.
 
 ## About Working
 ParcelSorter is a simulation so parcels are generating randomly. The project actually offers a working method.
@@ -72,6 +72,4 @@ Released under the MIT License.
 
 **Contact:**   
 [My GitHub account](https://github.com/meryemkiremitci) | meryemkiremitci3@gmail.com
-
-[Project Report](ParcelSorter_Report.pdf)
 
