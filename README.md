@@ -69,10 +69,9 @@ Logging helps with analyzing simulation behavior and debugging.
 
 ## License
 Released under the MIT License.
----
 
 **Contact:**   
 [My GitHub account](https://github.com/meryemkiremitci) | meryemkiremitci3@gmail.com
 
-[Project Report](ParcelSorter_Report.docx)
+[Project Report](ParcelSorter_Report.pdf)
 
