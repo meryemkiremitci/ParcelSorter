@@ -1,6 +1,6 @@
 SizeOfTable=10
 ArrivalBufferCapacity=10
-MaxTicks=100
+MaxTicks=50
 MinParcelsPerTick=1
 MaxParcelsPerTick=7
 ReturnProbability=0.2
